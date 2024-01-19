@@ -6,7 +6,7 @@ const lowercase = 'abcdefghijklmnopqrstuvwxyz';
 const numbers = '123456789';
 const symbols = '@#$%^&*(){}[]<>?|+=-_';
 
-const allCharacters = uppercase + lowercase + numbers + symbols;
+const allCharacters = uppercase + lowercase + numbers + symbols;;
 
 function createpassword() {
     let password = "";
